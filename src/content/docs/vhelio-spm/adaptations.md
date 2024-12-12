@@ -10,7 +10,7 @@ Le prototype proposé a pour objectif de disposer d'une version améliorée du V
 :::
 
 :::tip[En réflexion]
-Le prototype de l'archipel pourrait adopter un style qui lui est propre :
+Le prototype de l'archipel pourrait adopter un style qui lui est propre&nbsp;:
 
 - _Des couleurs jaunes et noires_ qui rappellent le bus scolaire.
 - _Des formes plus arrondies_ pour un aspect moins anguleux.
@@ -47,4 +47,4 @@ Saint-Pierre-et-Miquelon est une terre isolée où l'approvisionnement en matér
 * faciliter l'auto-construction,
 * faciliter la réparabilité sur place.
 
-![](../../../assets/info/img-usine.jpg)
+![Vhélio et transport](../../../assets/info/img-usine.jpg)

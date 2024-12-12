@@ -5,22 +5,27 @@ sidebar:
   order: 1
 ---
 
-![Le Vhélio est un vélo...](../../../assets/info/img-1-m3.jpg)
+![Un Vhélio pour ses travaux](../../../assets/info/img-1-m3.jpg)
 
-Un [Vhélio](https://vhelio.org) est un véhicule à assistance électrique qui comporte toutes les caractéristiques d'un vélo, dont une taille réduite. Il est stable, pratique et capable de transporter des personnes et des biens suivant sa configuration :
+Un <a href="https://vhelio.org" target="_blank">Vhélio</a> est un véhicule à assistance électrique qui comporte toutes les caractéristiques d'un vélo, dont une taille réduite. Il est stable, pratique et capable de transporter des personnes et des biens.
 
-- 3 adultes,
-- 1 adulte et 3 enfants,
-- 1m<sup>3</sup> de matériel,
-- ou une combinaison de ces options.
+:::tip[Configurations possibles]
+Suivant sa configuration, un Vhélio peut transporter&nbsp;:
 
-![](../../../assets/info/info-velo.png)
+- 1 adulte et 3 enfants
+- 2 adultes et 1 enfant
+- 3 adultes
+- 1m<sup>3</sup> de matériel
+- Une combinaison de ces options
+:::
+
+![Le Vhélio est un vélo...](../../../assets/info/info-velo.png)
 
 ## Le "Vhéliotech"
 
 Ce modèle choisi comme base pour le prototype de l'archipel est un véhicule complet à fabriquer soi-même, dont <a href="https://documentation.vhelio.org/vheliotech/guide-de-montage/v1.0.0/" target="_blank">les plans</a> sont intégralement téléchargeables et en libre accès. De conception simple (low-tech), il peut être assemblé avec des techniques basiques et des outils simples (scie, visseuse, clé).
 
-![](../../../assets/info/img-freecad.png)
+![Des plans Vhélio en libre accès](../../../assets/info/img-freecad.png)
 
 ## Un véhicule pratique
 
@@ -28,7 +33,7 @@ Position ergonomique (transat), grande capacité de chargement utile (jusqu’à
 
 Cette nouvelle forme de mobilité n’oublie personne&nbsp;:  celles et ceux qui n’ont pas le permis, celles et ceux qui ont des défauts d’équilibre / de motricité par exemple.
 
-![](../../../assets/info/info-quotidien.png)
+![Le Vhélio au quotidien](../../../assets/info/info-quotidien.png)
 
 ## Une solution DIY économique
 
@@ -36,7 +41,7 @@ Cette nouvelle forme de mobilité n’oublie personne&nbsp;:  celles et ceux qui
 
 Réparable à l'infini, le Vhélio permet des économies substantielles sur le long terme. Ses pièces sont accessibles et indépendantes de tout constructeur.
 
-![](../../../assets/info/info-economique.png)
+![Le Vhélio est économique](../../../assets/info/info-economique.png)
 
 ## Un objet inédit
 
@@ -46,7 +51,7 @@ Le Vhélio a été pensé pour s'inscrire dans la mobilité douce, avec un maxim
 Le <a href="https://vhelio.org/le-projet-et-ses-valeurs/" target="_blank">projet du Vhélio</a> est <a href="https://vhelio.org/vhelio-quand-tout-a-commence/" target="_blank">né avec le confinement</a>. Depuis 2020, il connaît un succès grandissant avec, 4 ans plus tard, près de *50 unités en circulation et 128000€ mobilisés*. Le Vhélio, c'est aussi une association qui rassemble de nombreux passionnés, un esprit d'entre-aide et untipe volonté d'avancer ensemble.
 :::
 
-![](../../../assets/info/img-3-adultes.jpg)
+![Un Vhélio pour 3 adultes](../../../assets/info/img-3-adultes.jpg)
 
 ### Une forme originale
 
@@ -76,4 +81,4 @@ Sobre, simple et confortable, le Vhélio obtient son amorti grâce à l’action
 Cette présentation et ses illustrations sont tirées <a href="https://vhelio.org/" target="_blank">du site officielle du projet Vhélio</a> sur lequel tu trouveras de nombreuses informations complémentaires.
 :::
 
-![](../../../assets/info/img-vhelios.jpg)
+![Rencontre de Vhélios](../../../assets/info/img-vhelios.jpg)
