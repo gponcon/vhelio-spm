@@ -9,11 +9,18 @@ sidebar:
 Le prototype proposé a pour objectif de disposer d'une version améliorée du Vhélio pour une utilisation à Saint-Pierre-et-Miquelon.
 :::
 
-### Le premier Vhélio d'outre-mer
+:::tip[En réflexion]
+Le prototype de l'archipel pourrait adopter un style qui lui est propre :
+
+- _Des couleurs jaunes et noires_ qui rappellent le bus scolaire.
+- _Des formes plus arrondies_ pour un aspect moins anguleux.
+:::
+
+## Le premier Vhélio d'outre-mer
 
 Ce projet donnerait naissance au premier Vhélio fabriqué dans un territoire d'outre-mer. Il bénéficierait de ce fait du rayonnement lié à cette première auprès du monde de la mobilité douce et des médias.
 
-### Adaptation au terrain et au climat
+## Adaptation au terrain et au climat
 
 Le climat de l'archipel est de type océanique froid sous l'influence dominante de la mer et de ses embruns. Le matériel souffre donc davantage qu'ailleurs, en particulier quand il est composé d'acier. D'autre part, les hivers sont en général plus rudes que dans l'hexagone. C'est pourquoi nous proposons les optimisations suivantes&nbsp;:
 
@@ -30,7 +37,7 @@ Le rendement des panneaux solaires a fait d'énormes progrès. Une expérience m
 - En complément, Vhélio peut être chargé via le réseau 230V.
 :::
 
-### Un construction DIY locale
+## Un construction DIY locale
 
 Saint-Pierre-et-Miquelon est une terre isolée où l'approvisionnement en matériel peut s'avérer long et coûteux. En revanche, les habitants ont une expérience significative du travail manuel, qui correspond à l'esprit du Vhéliotech. Les matériaux et fournisseurs seront choisis de manière à&nbsp;:
 
