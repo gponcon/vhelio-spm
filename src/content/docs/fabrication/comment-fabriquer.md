@@ -1,7 +1,8 @@
 ---
-title: Comment fabriquer un Vhélio ?
+title: Comment fabriquer son Vhélio ?
 description: Un Vhélio peut être fabriqué chez soi de A à Z.
-sidebar:
-  order: 1
-  label: Comment le fabriquer ?
 ---
+
+:::note[Fabrication DIY (à venir)]
+Fabriquer son Vhélio chez soi, c'est possible... les plans du Vhélio ont même été étudiés pour ça ! Découvre prochainement sur cette page, en résumé, les implications de cette aventure.
+:::

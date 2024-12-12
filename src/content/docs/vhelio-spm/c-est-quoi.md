@@ -73,7 +73,7 @@ Elle protège de la chaleur, de la pluie et collecte l’énergie solaire. Le Vh
 Sobre, simple et confortable, le Vhélio obtient son amorti grâce à l’action combinée des sièges (souplesse des chambres à air recyclées) et des pneus dits « ballons » dont l'efficacité a largement convaincus les concepteurs au gré des essais.
 
 :::note[En savoir plus sur le Vhélio]
-Cette présentation et ses illustrations sont tirées <a href="https://vhelio.org/" target="_blank">du site officielle du projet Vhélio</a> sur lequel vous trouverez de nombreuses informations complémentaires.
+Cette présentation et ses illustrations sont tirées <a href="https://vhelio.org/" target="_blank">du site officielle du projet Vhélio</a> sur lequel tu trouveras de nombreuses informations complémentaires.
 :::
 
 ![](../../../assets/info/img-vhelios.jpg)

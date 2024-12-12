@@ -7,12 +7,12 @@ Vivre à Saint-Pierre sans voiture, même en famille, est possible.
 
 Mais parfois un peu fatiguant.
 
-Pour les courses, les déménagements, la déchetterie et les trajets du quotidien aux écoles, je rêve d'un véhicule&nbsp;:
+Pour les courses, les déménagements, la déchetterie et les trajets du quotidien aux écoles, je rêvais d'un véhicule&nbsp;:
 
 - plus confortable et pratique qu'un vélo traditionnel,
 - plus économique et durable qu'une voiture.
 
-Petit à petit, l'innovant Vhélio s'est avéré dans mon esprit la solution idéale.
+Petit à petit, l'innovant <a href="https://vhelio.org" target="_blank">Vhélio</a> s'est avéré la solution idéale.
 
 ##  Planning de réalisation
 
