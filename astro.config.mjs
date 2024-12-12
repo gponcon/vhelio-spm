@@ -17,18 +17,36 @@ export default defineConfig({
 			social: {
 				github: 'https://github.com/gponcon/vhelio-spm',
 			},
+			logo: {
+				light: './src/assets/logo-vhelio-light.png',
+				dark: './src/assets/logo-vhelio-dark.png',
+			},
 			sidebar: [
 				{
-					label: 'Guides',
+					label: 'Annonces',
+					autogenerate: { directory: 'annonces' },
+				},
+				{
+					label: 'Le Vhélio de SPM',
+					autogenerate: { directory: 'vhelio-spm' },
+				},
+				{
+					label: 'Fabrique ton Vhélio !',
 					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', slug: 'guides/example' },
+						{ label: 'Comment faire ?', slug: 'fabrication/comment-fabriquer' },
+						{ label: 'Versions & Options', slug: 'fabrication/versions-et-options' },
+						{ label: 'Guide de Fabrication', slug: 'fabrication/guide' },
 					],
 				},
 				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
+					label: 'Partenaires & Médias',
+					items: [
+						{ label: 'Partenaires stratégiques', slug: 'partenaires' },
+						{ label: 'Professionnels', slug: 'professionnels' },
+						{ label: 'Médias', slug: 'medias' },
+					],
 				},
+				{ label: 'A Propos', slug: 'a-propos' },
 			],
 		}),
 	],
