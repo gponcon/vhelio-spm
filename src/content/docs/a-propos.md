@@ -36,4 +36,4 @@ L'idée est de s'inscrire dans une continuité&nbsp;:
 
 ##  Le porteur du projet
 
-Mon nom est Guillaume Ponçon, informaticien, navigateur et bricoleur. Je suis arrivé sur l'archipel par mes propres moyens avec ma femme et mes trois enfants après avoir rénové et équipé un voilier. Le Vhélio est un projet qui me tient à cœur, car en adéquation avec mes valeurs et mon savoir-faire : autonomie, DIY, lowtech, développement durable et innovation.
+Mon nom est Guillaume Ponçon, informaticien, navigateur et bricoleur. Je suis arrivé sur l'archipel par mes propres moyens avec ma femme et mes trois enfants après avoir rénové et équipé un voilier. Le Vhélio est un projet qui me tient à cœur, car en adéquation avec mes valeurs et mon savoir-faire&nbsp;:  autonomie, DIY, lowtech, développement durable et innovation.

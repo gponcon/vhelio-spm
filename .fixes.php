@@ -36,6 +36,8 @@ function clean(string $file): void
     // Ponctuations doubles
     $from[] = '/^([^:]+)[ \t]+([:;?!]) *$/m';
     $to[] = '$1&nbsp;$2';
+    $from[] = '/^([^:]+)[ \t]+([:;?!] +)(.+)$/m';
+    $to[] = '$1&nbsp;$2 $3';
 
     $content = preg_replace($from, $to, $content);
     file_put_contents($file, trim($content) . "\n");

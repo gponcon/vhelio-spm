@@ -15,10 +15,10 @@ Adepte des <a href="https://fr.wikipedia.org/wiki/Low-tech" target="_blank">Low-
 ![Principe des low-techs](../../../assets/info/low-tech.jpg)
 
 :::tip[L'idée de ce "Vhélio" me travaille]
-Je me dis qu'un tel véhicule serait parfait pour mes besoins : 
+Je me dis qu'un tel véhicule serait parfait pour mes besoins&nbsp;:
 
 - **Facilitateur** pour tous les trajets du quotidiens (courses, enfants, etc.).
-- **Hautement réparable** avec des pièces courantes, faciles et rapides à obtenir.
+- **Réparable** grâce à des pièces courantes, faciles et rapides à obtenir.
 - **Démontable** et transportable, pour l'acheminer d'un endroit à un autre.
 - **Autonome** en énergie, pour les trajets longs et les endroits isolés.
 

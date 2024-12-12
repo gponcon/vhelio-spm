@@ -26,7 +26,7 @@ Ce modèle choisi comme base pour le prototype de l'archipel est un véhicule co
 
 Position ergonomique (transat), grande capacité de chargement utile (jusqu’à 200kg), compacité, rien n’est laissé au hasard. Ce véhicule évolue de façon agile et déplace facilement des personnes, des biens partout et sur des distances quotidiennes.
 
-Cette nouvelle forme de mobilité n’oublie personne : celles et ceux qui n’ont pas le permis, celles et ceux qui ont des défauts d’équilibre / de motricité par exemple.
+Cette nouvelle forme de mobilité n’oublie personne&nbsp;:  celles et ceux qui n’ont pas le permis, celles et ceux qui ont des défauts d’équilibre / de motricité par exemple.
 
 ![](../../../assets/info/info-quotidien.png)
 
