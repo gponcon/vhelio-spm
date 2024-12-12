@@ -7,7 +7,7 @@ Vivre à Saint-Pierre sans voiture, même en famille, est possible.
 
 Mais parfois un peu fatiguant.
 
-Pour les courses, les déménagements, la déchetterie et les trajets du quotidien aux écoles, je rêve d'un véhicule :
+Pour les courses, les déménagements, la déchetterie et les trajets du quotidien aux écoles, je rêve d'un véhicule&nbsp;:
 
 - plus confortable et pratique qu'un vélo traditionnel,
 - plus économique et durable qu'une voiture.
@@ -16,7 +16,7 @@ Petit à petit, l'innovant Vhélio s'est avéré dans mon esprit la solution id�
 
 ##  Planning de réalisation
 
-Un prototype complet est réalisable pour la fin de l'année 2025 avec un commencement des travaux en début d'année. Ceux-ci comprennent : 
+Un prototype complet est réalisable pour la fin de l'année 2025 avec un commencement des travaux en début d'année. Ceux-ci comprennent&nbsp;:
 
 * L'optimisation des plans pour le Vhélio de l'archipel.
 * L'inventaire des pièces à commander et des fournisseurs.
@@ -27,7 +27,7 @@ Un prototype complet est réalisable pour la fin de l'année 2025 avec un commen
 
 ## La suite du projet
 
-L'idée est de s'inscrire dans une continuité :
+L'idée est de s'inscrire dans une continuité&nbsp;:
 
 * *Analyser et améliorer* le concept.
 * *Inspirer les habitants* et valider une solution de mobilité douce adaptée à l'archipel.

@@ -15,7 +15,7 @@ Ce projet donnerait naissance au premier Vhélio fabriqué dans un territoire d'
 
 ### Adaptation au terrain et au climat
 
-Le climat de l'archipel est de type océanique froid sous l'influence dominante de la mer et de ses embruns. Le matériel souffre donc davantage qu'ailleurs, en particulier quand il est composé d'acier. D'autre part, les hivers sont en général plus rudes que dans l'hexagone. C'est pourquoi nous proposons les optimisations suivantes : 
+Le climat de l'archipel est de type océanique froid sous l'influence dominante de la mer et de ses embruns. Le matériel souffre donc davantage qu'ailleurs, en particulier quand il est composé d'acier. D'autre part, les hivers sont en général plus rudes que dans l'hexagone. C'est pourquoi nous proposons les optimisations suivantes&nbsp;:
 
 * **Des roues modifiées** pour une tenue de route optimisée sur un terrain accidenté, occasionnellement enneigé et au relief marqué.
 * **Des matériaux résistants à la corrosion** (aluminium, inox) seront sélectionnés pour une durabilité améliorée, ainsi qu'un renforcement de l'étanchéité des parties électriques.
@@ -32,7 +32,7 @@ Le rendement des panneaux solaires a fait d'énormes progrès. Une expérience m
 
 ### Un construction DIY locale
 
-Saint-Pierre-et-Miquelon est une terre isolée où l'approvisionnement en matériel peut s'avérer long et coûteux. En revanche, les habitants ont une expérience significative du travail manuel, qui correspond à l'esprit du Vhéliotech. Les matériaux et fournisseurs seront choisis de manière à :
+Saint-Pierre-et-Miquelon est une terre isolée où l'approvisionnement en matériel peut s'avérer long et coûteux. En revanche, les habitants ont une expérience significative du travail manuel, qui correspond à l'esprit du Vhéliotech. Les matériaux et fournisseurs seront choisis de manière à&nbsp;:
 
 * privilégier l'offre locale,
 * faciliter et optimiser l'importation,
