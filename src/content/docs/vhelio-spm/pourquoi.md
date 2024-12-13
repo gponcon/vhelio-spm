@@ -43,7 +43,7 @@ Quoi qu'il en soit, l'accès à tous les éléments mécaniques et électriques 
 
 ## Fabrication locale, souveraineté et résilience
 
-Sur le long terme, un véhicule pratique et facile à fabriquer est une bonne option pour faire face aux contraintes liées à l'éloignement, ainsi qu'à la raréfaction des produits issu du pétrole.
+Sur le long terme, un véhicule pratique et facile à fabriquer est une bonne option pour faire face aux contraintes liées à l'éloignement, ainsi qu'à la raréfaction des produits issus du pétrole.
 
 D'autre part, une fabrication locale permet de limiter la dépendance de l'archipel à des acteurs privés extérieurs et optimiser les délais de réparation.
 
