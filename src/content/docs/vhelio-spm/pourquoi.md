@@ -62,7 +62,7 @@ Sur le long terme, une généralisation de la mobilité douce rendrait le centre
 ![Des routes à mobilité douce](../../../assets/info/route-voiture-vhelio.png)
 
 :::note[De plus en plus de villes...]
-Se lancent dans des projets de mobilité douce généralisée, <a href="https://www.enviesdeville.fr/transition-ecologique/oslo-capitale-verte/" target="_blank">dont une capitale de plus de 700000 habitants</a>.
+Se lancent dans des projets de mobilité douce généralisée, [dont une capitale de plus de 700000 habitants](https://www.enviesdeville.fr/transition-ecologique/oslo-capitale-verte/).
 
 - Pour une réelle amélioration de la qualité de vie.
 - Mais aussi une volonté de résilience urbaine face aux défis à venir&nbsp;:  effondrement des hydrocarbures, effets du changement climatique, etc.

@@ -1,10 +1,23 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import rehypeExternalLinks from 'rehype-external-links';
+import { targetBlank } from './src/plugins/targetBlank';
 
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://vhelio-spm.poncon.fr',
 	trailingSlash: "never",
+	markdown: {
+		rehypePlugins: [
+			[targetBlank, { domain: 'vhelio-spm.poncon.fr' }],
+			[
+				rehypeExternalLinks,
+				{
+				  content: { type: 'text', value: ' 🡥' }
+				}
+			],
+		],
+	},
 	integrations: [
 		starlight({
 			title: "Un Vhélio pour l'archipel !",

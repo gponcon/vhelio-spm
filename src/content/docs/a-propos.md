@@ -12,7 +12,7 @@ Pour les courses, les déménagements, la déchetterie et les trajets du quotidi
 - plus confortable et pratique qu'un vélo traditionnel,
 - plus économique et durable qu'une voiture.
 
-Petit à petit, l'innovant <a href="https://vhelio.org" target="_blank">Vhélio</a> s'est avéré la solution idéale.
+Petit à petit, l'innovant [Vhélio](https://vhelio.org) s'est avéré la solution idéale.
 
 ##  Planning de réalisation
 

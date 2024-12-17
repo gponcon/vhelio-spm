@@ -10,7 +10,7 @@ Voilà plus d'un an que nous somme sur Saint-Pierre-et-Miquelon et de nombreuses
 
 > En général, nous pouvons tout faire à pied ou à vélo. Mais certains trajets (transport de matériel, courses, acheminement des enfants à l'école) s'avèrent difficiles sans une voiture traditionnelle.
 
-Adepte des <a href="https://fr.wikipedia.org/wiki/Low-tech" target="_blank">Low-techs</a>, je tombe dès ses débuts sur un projet un peu curieux : le <a href="https://vhelio.org" target="_blank">Vhélio</a>. Petit à petit, je vois des modèles sortir, leurs créateurs s'en servir et ça me fait de plus en plus envie !
+Adepte des [Low-techs](https://fr.wikipedia.org/wiki/Low-tech), je tombe dès ses débuts sur un projet un peu curieux : le [Vhélio](https://vhelio.org). Petit à petit, je vois des modèles sortir, leurs créateurs s'en servir et ça me fait de plus en plus envie !
 
 ![Principe des low-techs](../../../assets/info/low-tech.jpg)
 
