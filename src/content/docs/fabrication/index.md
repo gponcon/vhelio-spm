@@ -8,3 +8,7 @@ Contenu de cette section :
 - [Comment fabriquer le Vhélio ?](comment-fabriquer/)
 - [Versions et options](versions-et-options/)
 - [Guide de fabrication](guide/)
+
+Travaux en cours :
+
+- [Adaptations techniques](adaptations/)

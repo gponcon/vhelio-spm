@@ -7,7 +7,7 @@ sidebar:
 ---
 
 :::caution[Guide complet de fabrication (à venir)]
-Sur cette documentation, découvre comment fabriquer un Vhélio chez soi. Tu y trouveras en particulier des informations utiles pour faciliter l'acquisition des pièces nécessaires à la construction sur l'archipel et les adaptations locales.
+Sur cette documentation, découvre comment fabriquer un Vhélio chez soi. Tu y trouveras en particulier des informations utiles pour faciliter l'acquisition des pièces nécessaires à la construction sur l'archipel et les [adaptations locales](/fabrication/adaptations/).
 :::
 
 :::note[Guide officiel]
