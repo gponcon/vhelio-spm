@@ -5,7 +5,7 @@ description: Le projet "Un Vhélio pour l'archipel"
 
 Vivre à Saint-Pierre sans voiture, même en famille, est possible.
 
-Mais parfois un peu fatiguant.
+Mais parfois fatiguant.
 
 Pour les courses, les déménagements, la déchetterie et les trajets du quotidien aux écoles, je rêvais d'un véhicule&nbsp;:
 
@@ -13,6 +13,10 @@ Pour les courses, les déménagements, la déchetterie et les trajets du quotidi
 - plus économique et durable qu'une voiture.
 
 Petit à petit, l'innovant [Vhélio](https://vhelio.org) s'est avéré la solution idéale.
+
+## Contenu et illustrations
+
+Ce projet sera réalisé grâce au travail extraordinaire de nombreux bénévoles autour du projet Vhélio. La plupart des illustrations de ce site sont empruntées à la communauté.
 
 ##  Planning de réalisation
 

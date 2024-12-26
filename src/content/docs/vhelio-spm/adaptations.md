@@ -6,7 +6,7 @@ sidebar:
 ---
 
 :::note
-Le prototype proposé a pour objectif de disposer d'une version améliorée du Vhélio pour une utilisation à Saint-Pierre-et-Miquelon.
+Le prototype proposé a pour objectif de disposer d'une version adaptée du Vhélio pour une utilisation à Saint-Pierre-et-Miquelon.
 :::
 
 :::tip[En réflexion]
