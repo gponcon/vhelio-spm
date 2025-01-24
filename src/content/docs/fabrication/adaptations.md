@@ -20,7 +20,7 @@ Sur l'archipel, importer des pièces est difficile et coûteux. Et d'autres ne s
 - l’équerrage doit être parfait.
 :::
 
-Adaptation des étapes :
+Adaptation des étapes&nbsp;:
 
 - Monter l'ensemble 3 (sauf grands tubes), 4, 9 avant de l'assembler au châssis.
 - Monter l'ensemble 3 (grands tubes), 10 avant de l'assembler au châssis.
@@ -53,16 +53,16 @@ Ne sont pas comptées les rondelles QIN12 et les boulons.
 
 Remarques
 
-- Étapes 20, 21, 22 (partiel) : à boulonner
-- Étape 23 à boulonner ?
-- Montage de direction : à faire sans soudage
-- Certaines pièces sont nécessaires à usiner :
-  - Direction : CHO46 x2
-  - Fixation roue arrière : CHO13, CHO15, CHO50
+- Étapes 20, 21, 22 (partiel)&nbsp;:  à boulonner
+- Étape 23 à boulonner&nbsp;?
+- Montage de direction&nbsp;:  à faire sans soudage
+- Certaines pièces sont nécessaires à usiner&nbsp;:
+  - Direction&nbsp;:  CHO46 x2
+  - Fixation roue arrière&nbsp;:  CHO13, CHO15, CHO50
 
 ### [Montage des pièces de cycles](https://documentation.vhelio.org/vheliotech/guide-de-montage/v1.0.0/050_montage_pieces_cycles.html)
 
-Grosse étape, avec pièces spécifiques à commander + à usiner :
+Grosse étape, avec pièces spécifiques à commander + à usiner&nbsp;:
 
 - 4x CHO17 pour le tendeur de chaîne.
 
@@ -74,7 +74,7 @@ Support peut être soudé + renforcé, roue à fixer avec boulonnerie.
 
 ### [Installation électrique](https://documentation.vhelio.org/vheliotech/guide-de-montage/v1.0.0/080_installation_electricite.html)
 
-Elle nécessite, pour le vhélio intégral, un boitier à fabriquer. A voir : une version intermédiaire entre intégral et solaire.
+Elle nécessite, pour le vhélio intégral, un boitier à fabriquer. A voir&nbsp;:  une version intermédiaire entre intégral et solaire.
 
 ### [Tôles et panneau solaire](https://documentation.vhelio.org/vheliotech/guide-de-montage/v1.0.0/084_pose_tole_panneau.html)
 

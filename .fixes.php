@@ -43,6 +43,10 @@ function clean(string $file): void
     $from[] = '/[ \t]+$/m';
     $to[] = '';
 
+    // Tabulations => espaces
+    $from[] = '/\t/';
+    $to[] = '  ';
+
     $content = preg_replace($from, $to, $content);
     file_put_contents($file, trim($content) . "\n");
 }
