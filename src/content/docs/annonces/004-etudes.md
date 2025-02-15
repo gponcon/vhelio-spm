@@ -65,5 +65,8 @@ Freiner avec les pieds n'est pas une bonne idée. A étudier&nbsp;: une protecti
 - [L'association AVELI, pleine d'idées](https://www.aveli.org/)
 - [Et aussi la fabrique des mobilités](https://wiki.lafabriquedesmobilites.fr/)
 - [Le "Karbike", une belle alternative](https://karbikes.com/)
+- [Le S'Cool Bus](https://www.youtube.com/watch?v=EBCln7eZEVI)
+- [Oui Cycle](https://www.youtube.com/watch?v=oRPEyvoi8R4)
 - [Une mini-voiture 4x4](https://kilow.com/)
 - [Le Midipile](https://www.midipile.eu/)
+- [Le Veemo](https://veemo.ca/fr/pages/approach)
