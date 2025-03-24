@@ -5,8 +5,8 @@ sidebar:
   order: 4
 ---
 
-:::danger[En travaux]
-Ces études sont en cours de réflexion, elles ne sont pas encore stabilisées.
+:::caution[Etude en cours]
+Ces informations peuvent évoluer.
 :::
 
 ## Économie de pièces par soudage
@@ -82,7 +82,7 @@ Tôles de finition à boulonner.
 
 ### [Glissières](https://documentation.vhelio.org/vheliotech/guide-de-montage/v1.0.0/086_assemblage_glissieres.html)
 
-A faire fabriquer.
+A faire fabriquer, ou trouver une solution plus simple.
 
 ### [Sièges](https://documentation.vhelio.org/vheliotech/guide-de-montage/v1.0.0/100_sieges.html)
 
@@ -91,3 +91,14 @@ Toutes les pièces sont à boulonner. Système à fixer sur les glissières.
 ### [Accessoires](https://documentation.vhelio.org/vheliotech/guide-de-montage/main/110_accessoires.html)
 
 A prévoir (version main de la doc).
+
+## Fournisseurs canadiens
+
+- [Velotronic](https://www.velotonic.ca/) : pas mal de pièces détachées hors VAE.
+- [Matthieu Performance](https://www.mathieuperformance.com/) : pièces vélo, un peu cher (haut de gamme ?), hors VAE.
+- [Canada Bicycle Parts](https://www.canadabicycleparts.com/fr/) : large choix de pièces hors VAE (à Montreal).
+- [Cyclo Boost](https://www.cycloboost.com/kit-moteur-velo-electrique/kit-moteur-seul/tous-les-kits-moteurs-avec-batterie.html) : kits électrique vélo, intéressant.
+- [UGO Cycle](https://ugocycle.com/) : kit électrique pour vélos standards, bonne réputation.
+- [Ebike BC](https://ebikebc.com/) : fabricant / distributeur de VAE & pièces ([capteurs](https://ebikebc.com/fr/collections/ebike-sensors), [batterie](https://ebikebc.com/fr/products/bare-battery-48v-10-4ah)...), distributeur [ENVO](https://envodrive.com/fr/).
+- [Distributeurs ENVO](https://envodrive.com/fr/pages/where-to-buy) : fabricant de VAE, cf. [tricycles / veemo](https://envodrive.com/fr/collections/e-trikes).
+- [Eco Velo des îles](https://ecovelodesiles.com/conversion-electrique/) : basé aux îles de la Madeleine.

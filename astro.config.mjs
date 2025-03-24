@@ -49,6 +49,7 @@ export default defineConfig({
 						{ label: 'Comment faire ?', slug: 'fabrication/comment-fabriquer' },
 						{ label: 'Versions & Options', slug: 'fabrication/versions-et-options' },
 						{ label: 'Guide de Fabrication', slug: 'fabrication/guide' },
+            { label: 'Adaptations locales', slug: 'fabrication/adaptations' },
 					],
 				},
 				{
