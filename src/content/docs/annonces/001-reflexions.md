@@ -3,7 +3,8 @@ title: Réflexions sur le projet
 description: Ce qui nous a amené à proposer un Vhélio pour l'archipel.
 lastUpdated: 2024-10-01
 sidebar:
-  order: 4
+  order: 5
+  hidden: true
 ---
 
 Voilà plus d'un an que nous somme sur Saint-Pierre-et-Miquelon et de nombreuses années que nous voyageons lentement et sûrement. Lors de nos escales longues, se pose le problème de la mobilité.

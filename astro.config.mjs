@@ -20,7 +20,7 @@ export default defineConfig({
 	},
 	integrations: [
 		starlight({
-			title: "Un Vhélio pour l'archipel !",
+			title: "Un Vhélio pour l'archipel",
 			locales: {
 				root: {
 						label: 'Français',
