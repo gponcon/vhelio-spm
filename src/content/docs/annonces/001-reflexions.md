@@ -3,7 +3,7 @@ title: Réflexions sur le projet
 description: Ce qui nous a amené à proposer un Vhélio pour l'archipel.
 lastUpdated: 2024-10-01
 sidebar:
-  order: 5
+  order: 6
   hidden: true
 ---
 

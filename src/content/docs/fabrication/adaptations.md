@@ -9,16 +9,16 @@ sidebar:
 Ces informations peuvent évoluer.
 :::
 
-## Économie de pièces par soudage
+## Montage par soudage
 
-Sur l'archipel, importer des pièces est difficile et coûteux. Et d'autres ne sont pas réalisables sur place. En revanche, on adore souder. Tableau récapitulatif des pièces qu'on peut économiser&nbsp;:
+Souder les pièces fixes, qui ne nécessitent pas de démontage, permettrait :
+
+- de limiter les liaisons inox-alu qui s'oxydent,
+- d'économiser 8 à 10kg de visserie et pièces d'assemblage.
+
+Récapitulatif des pièces qu'on peut retirer et des adaptations possibles.
 
 ### [Assemblage du châssis](https://documentation.vhelio.org/vheliotech/guide-de-montage/v1.0.0/040_assemblage_chassis.html)
-
-:::caution
-- Pointer l'ensemble du châssis avant tout.
-- l’équerrage doit être parfait.
-:::
 
 Adaptation des étapes&nbsp;:
 
@@ -59,6 +59,7 @@ Remarques
 - Certaines pièces sont nécessaires à usiner&nbsp;:
   - Direction&nbsp;:  CHO46 x2
   - Fixation roue arrière&nbsp;:  CHO13, CHO15, CHO50
+  - Fixation moteur.
 
 ### [Montage des pièces de cycles](https://documentation.vhelio.org/vheliotech/guide-de-montage/v1.0.0/050_montage_pieces_cycles.html)
 

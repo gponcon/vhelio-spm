@@ -4,7 +4,7 @@ description: Un partenaire et un prix
 lastUpdated: 2024-12-12
 sidebar:
   label: Prix & Partenaire !
-  order: 4
+  order: 5
   hidden: true
 ---
 
