@@ -3,7 +3,7 @@ title: Études en cours (suite)
 description: Études pour la fabrication d'un vhélio sur Saint-Pierre-et-Miquelon v2
 lastUpdated: 2025-01-09
 sidebar:
-  order: 3
+  order: 400
 ---
 
 Les retours d'expérience des gens qui utilisent un Vhélio au quotidien sont importants pour y apporter des modifications pertinentes. Voici quelques points récurrents abordés par les utilisateurs, sur lesquels nous réfléchissons.

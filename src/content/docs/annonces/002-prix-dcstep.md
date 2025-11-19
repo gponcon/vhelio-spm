@@ -4,8 +4,7 @@ description: Un partenaire et un prix
 lastUpdated: 2024-12-12
 sidebar:
   label: Prix & Partenaire !
-  order: 5
-  hidden: true
+  order: 420
 ---
 
 Parmi les quelques projets que j'attends de réaliser, il y a [l'idée de fabriquer un Vhélio](/annonces/001-reflexions). Or en cette année 2024, la [DCSTEP](https://www.saint-pierre-et-miquelon.gouv.fr/Services-de-l-Etat/Les-services-de-l-Etat/La-Direction-de-la-Cohesion-Sociale-du-Travail-de-l-Emploi-et-de-la-Population-DCSTEP) (Direction de la Cohésion Sociale, du Travail, de l'Emploi et de la Population) propose le [Prix Transition écologique](https://www.saint-pierre-et-miquelon.gouv.fr/Publications/Communiques/Communiques-2024/Appel-a-projets-Prix-de-la-transition-ecologique), auquel je postule.

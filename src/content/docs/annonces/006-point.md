@@ -3,8 +3,7 @@ title: Optimisations et Défis
 description: Optimisation actées, transport, douane, fabrication des pièces
 lastUpdated: 2025-08-20
 sidebar:
-  order: 1
-  badge: New
+  order: 200
 ---
 
 ## Optimisations actées

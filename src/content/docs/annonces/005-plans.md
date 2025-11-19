@@ -3,7 +3,7 @@ title: Modification des plans
 description: Protocole de fabrication et plans
 lastUpdated: 2025-04-27
 sidebar:
-  order: 2
+  order: 300
 ---
 
 Pour que le Vhélio de l'archipel puisse être fabriqué et réparé sur place, j'envisage une modification des plans. Premièrement pour s'adapter aux dimensions des profilés et aux normes locales qui diffèrent de celles de la métropole, deuxièmement pour le réaliser avec les moyens locaux, troisièmement pour remplacer les nombreux boulons par des soudures au niveau des assemblages définitifs.
